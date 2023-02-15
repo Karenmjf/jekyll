@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: MI PRIMER PROYECTO
 permalink: /docs/themes/
 ---
 
